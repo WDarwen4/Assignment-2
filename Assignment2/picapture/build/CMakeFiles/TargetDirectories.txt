@@ -1,0 +1,3 @@
+/home/pi/Assignment2/picapture/build/CMakeFiles/PiCapture.dir
+/home/pi/Assignment2/picapture/build/CMakeFiles/edit_cache.dir
+/home/pi/Assignment2/picapture/build/CMakeFiles/rebuild_cache.dir
